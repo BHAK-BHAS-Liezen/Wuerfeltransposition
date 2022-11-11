@@ -1,0 +1,8 @@
+C:\Users\Dominik\Documents\Projects\Würfelverschlüsselung\Würfelverschlüsselung\bin\Debug\Würfelverschlüsselung.exe.config
+C:\Users\Dominik\Documents\Projects\Würfelverschlüsselung\Würfelverschlüsselung\bin\Debug\Würfelverschlüsselung.exe
+C:\Users\Dominik\Documents\Projects\Würfelverschlüsselung\Würfelverschlüsselung\bin\Debug\Würfelverschlüsselung.pdb
+C:\Users\Dominik\Documents\Projects\Würfelverschlüsselung\Würfelverschlüsselung\obj\Debug\Würfelverschlüsselung.csproj.AssemblyReference.cache
+C:\Users\Dominik\Documents\Projects\Würfelverschlüsselung\Würfelverschlüsselung\obj\Debug\Würfelverschlüsselung.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dominik\Documents\Projects\Würfelverschlüsselung\Würfelverschlüsselung\obj\Debug\Würfelverschlüsselung.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Projects\Würfelverschlüsselung\Würfelverschlüsselung\obj\Debug\Würfelverschlüsselung.exe
+C:\Users\Dominik\Documents\Projects\Würfelverschlüsselung\Würfelverschlüsselung\obj\Debug\Würfelverschlüsselung.pdb
